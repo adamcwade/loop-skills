@@ -1,0 +1,14 @@
+{
+  "name": "loop-skills-marketplace",
+  "owner": {
+    "name": "Adam Wade",
+    "url": "https://github.com/adamcwade"
+  },
+  "plugins": [
+    {
+      "name": "loop-skills",
+      "source": "./",
+      "description": "Five Claude Code skills for running agent loops well: CI babysitting, test burndown, deploy watching, issue triage, and dependency patrol"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "loop-skills",
+  "description": "Five Claude Code skills for running agent loops well: CI babysitting, test burndown, deploy watching, issue triage, and dependency patrol",
+  "version": "0.1.0",
+  "author": {
+    "name": "Adam Wade",
+    "url": "https://github.com/adamcwade"
+  },
+  "homepage": "https://github.com/adamcwade/loop-skills",
+  "repository": "https://github.com/adamcwade/loop-skills",
+  "license": "MIT",
+  "keywords": ["claude-code", "skills", "loop", "automation", "ci", "triage", "dependencies"]
+}
